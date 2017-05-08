@@ -1,0 +1,25 @@
+{
+  "name": "labchrome",
+  "version": "0.0.1",
+  "description": "Run an isolated \"lab\" version of Google's Chrome web browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aogriffiths/labchrome.git"
+  },
+  "keywords": [
+    "lab",
+    "isolated",
+    "chrome",
+    "browser"
+  ],
+  "author": "Adam Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aogriffiths/labchrome/issues"
+  },
+  "homepage": "https://github.com/aogriffiths/labchrome#readme"
+}
